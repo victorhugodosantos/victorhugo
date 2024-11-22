@@ -1,50 +1,30 @@
 <!DOCTYPE html>
+
 <html lang="pt-BR">
+
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport"
-content="width=device-width,
-initial-scale=1.0">
-  <title>Estrutura de página
-  Simples</title>
-   <Siimples</title>
-     <link rel="stylesheet"
-  href="style.css">
-  </head>
-  <body>
 
- <!-- Cabeçalho da página -->
- <header>
-   <header>
-   <h1 class=page.title">title da página</h1>
-   <p
-class="page-subtitle">subtitle ou descrição breve</p>
-</header>
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
 
-<!--Menu de navegação -->
-<Menu class="Menu">
-  <ul class="menu-list">
-  <li><a href="#home">home</
-a></li>
-   <li><a href="#sobre">sobre</
-a></li>
-    <li><a
-href="#serviços">serviço</a></
-li>
-    <li><a
-href="#contato">contato</a></li>
-  </ul>
-</menu>
+  <title>historia da computaçao</title>
+<link rel="stylesheet" href="style.css">
 
-<!--conteúdo principal da página
--->
-<main>
-  <section class="section-home"
-id="home">
-    <!--conteúdo da seção
-"home" vai aqui -->
-   </section>
-</main>
+</head>
 
-</body>
-</html>
+<body>
+
+  <div class="section" id="section1">
+  <h1>o inicio da computaçao</h1>
+  <h2>as primeiras maquinas</h2>
+  <p>a historia começou no seculo XIX com a criação do primeiro conceito 
+   de computador mecanico por Charles Babbage. Ele projetou a "maquina analitica", que
+   nunca foi construida na epoca, mas e considerado o precursor dos computadores
+   modernos</p>
+  <img src="imagem" alt="um desenho antigo da maquina analitica"
+</div>
+
+<div class="section" id="section2">
+ <h1>a revoluçao dos computadores</h1>
+ <h2>de tubos a transistores</h2>
+ <p>.</p>
